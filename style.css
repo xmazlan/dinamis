@@ -1,0 +1,58 @@
+#container
+{
+	margin: 0 auto;
+	width: 50%;
+	background: #fff;
+	font-family:Verdana, Geneva, sans-serif;
+}
+h2
+	{
+		font-family:Tahoma;
+		font-size:16px;
+		margin: 0 auto;
+		border-bottom:1px solid #CCC;
+	}
+.f_isian
+	{
+		font-family:Verdana, Geneva, sans-serif;
+		font-size:10px;	
+	}
+input
+	{
+		border:1px solid #cccccc;
+		padding:4px;
+		font-size:12px;
+		font-family:Verdana, Geneva, sans-serif;
+	}
+select
+	{
+		border:1px solid #e8e8e8;
+		padding:2px;
+		font-size:10px;
+		font-family:Verdana, Geneva, sans-serif;
+	}
+.beda
+	{
+		width:50px;	
+		padding:2px;
+		font-size:11px;
+		background-color:#369;
+		border:1px solid   #66C;
+		color:#FFF;
+	}		
+.narasi
+	{
+		font-size:12px;	
+	}	
+.solusi
+	{
+		margin-top:10px;
+		padding:2px;
+		/*border:1px solid #333;	*/
+	}
+#visual
+	{
+		margin-top:10px;
+		padding:2px;
+		border:1px solid #333;
+	}
